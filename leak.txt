@@ -1,1 +1,1 @@
-token = "POCSECRET_1234567890"
+ghp_0123456789abcdefghijklmnopqrstuvwxyzAB
