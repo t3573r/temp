@@ -1,1 +1,1 @@
-ghp_0123456789abcdefghijklmnopqrstuvwxyzAB
+token = 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
